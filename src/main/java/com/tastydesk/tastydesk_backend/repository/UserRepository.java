@@ -1,7 +1,6 @@
 package com.tastydesk.tastydesk_backend.repository;
 
 import com.tastydesk.tastydesk_backend.model.User;
-
 import org.springframework.data.jpa.repository.JpaRepository;
 import java.util.Optional;
 
